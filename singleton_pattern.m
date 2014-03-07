@@ -23,11 +23,7 @@
     self = [super init];
     
     if (self != nil) {
-        
-        NSAssert([NSThread isMainThread], @"init must be done on main thread.");
-        s_mainThreadId = @(pthread_mach_thread_np(pthread_self()));
-        
-        [self p_activate];
+        //
     }
     
     return self;
