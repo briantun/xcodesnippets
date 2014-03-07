@@ -1,5 +1,5 @@
 // Generate temporary file path
-// 
+// Builds a unique file name in an app's temoporary folder
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 8FC55D24-DAF4-488B-AFAF-DFD26647AC1F
