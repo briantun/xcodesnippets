@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 5484F70C-AF9A-4FD4-9A25-1A50EFFF5D5D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 SEL originalSelector = NSSelectorFromString(@"dealloc");
     SEL swizzledSelector = @selector(YM_swizzledDealloc);
     
