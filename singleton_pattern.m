@@ -5,7 +5,7 @@
 // IDECodeSnippetIdentifier: 64B925B1-AF19-4E6E-B325-8B13919403E5
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 + (YMThreadChecker *)sharedThreadChecker
 {
     static dispatch_once_t onceToken;
